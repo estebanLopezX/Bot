@@ -1,0 +1,88 @@
+[
+  {
+    "ref": "ans_eb35aa21-9dea-45eb-9d49-4997cc7412a5",
+    "keyword": "key_0a59d199-cac4-402f-aa6b-9b9393585d12",
+    "answer": "Este es el fluje Welcome",
+    "options": {
+      "media": null,
+      "buttons": [],
+      "capture": false,
+      "child": null,
+      "delay": 1000,
+      "idle": null,
+      "ref": null,
+      "nested": [],
+      "keyword": {},
+      "callback": true
+    },
+    "refSerialize": "ab0ddec8fdf9653a08c9918a588050ec",
+    "from": "573246720142"
+  },
+  {
+    "ref": "6d396365-8513-4e2f-9ee5-df85b84b5d4f",
+    "keyword": null,
+    "answer": "Escribiste otra cosa",
+    "options": {
+      "media": null,
+      "buttons": [],
+      "capture": false,
+      "delay": 0
+    },
+    "from": "573246720142",
+    "refSerialize": "133f073f50a10516083de37f1bb0d63c"
+  },
+  {
+    "ref": "24a011b8-cbaa-41da-ab13-f9d989efcb7c",
+    "keyword": "ab0ddec8fdf9653a08c9918a588050ec",
+    "answer": "menu",
+    "options": {},
+    "from": "573246720142",
+    "refSerialize": "8d19b761e0b1d940f841b37e5e559ee4"
+  },
+  {
+    "ref": "ans_6b674ac3-578d-40ec-a54d-3cc49f180c22",
+    "keyword": "key_e9d8340d-fdb2-4ecd-86f2-5ff85943819b",
+    "answer": "Elegi alguna de estas opciones:\r\n\r\nopcion 1 - Menu\r\nopcion 2 - Reservar Mesa\r\nopcion 3 - Consultas\r\n\r\nOpcion 0 - salir",
+    "options": {
+      "media": null,
+      "buttons": [],
+      "capture": true,
+      "child": null,
+      "delay": 0,
+      "idle": null,
+      "ref": null,
+      "nested": [],
+      "keyword": {},
+      "callback": true
+    },
+    "refSerialize": "63c73ef8c7c5f856fda635c1b464fd18",
+    "from": "573246720142"
+  },
+  {
+    "ref": "fdfba3e8-b065-4b06-821a-e47facbd96b5",
+    "keyword": "63c73ef8c7c5f856fda635c1b464fd18",
+    "answer": "2",
+    "options": {},
+    "from": "573246720142",
+    "refSerialize": "2294c3d08b53a6effa5df696a15b9d30"
+  },
+  {
+    "ref": "ans_0e869c11-bc4d-46ab-bff4-9fe367e1ab16",
+    "keyword": "key_023dc8af-c13a-4dd1-b28f-b220c7da3b80",
+    "answer": "Reserva: www.resservas.com",
+    "options": {
+      "media": null,
+      "buttons": [],
+      "capture": false,
+      "child": null,
+      "delay": 0,
+      "idle": null,
+      "ref": null,
+      "nested": [],
+      "keyword": {},
+      "callback": false
+    },
+    "refSerialize": "b7960bb939c68ab272a94865fb8b1e10",
+    "from": "573246720142"
+  }
+]
